@@ -37,6 +37,12 @@ while True:
     c.send(msg.encode())
 ```
 ## OUPUT
+### Client
+![WhatsApp Image 2025-11-10 at 10 42 26_c94db3c2](https://github.com/user-attachments/assets/a5638c2b-4c90-4bf5-9276-46d7c63ac145)
+### Server
+![WhatsApp Image 2025-11-10 at 10 42 26_55302c21](https://github.com/user-attachments/assets/a116bea0-da96-41f3-8a4c-03da0c212080)
+
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
